@@ -11,6 +11,7 @@
 <body>
 <div class="diva">
 <p>Hello, world!</p>
+today is <?php echo date('l, F jS, Y'); ?>.
 </div>
 </body>
 </html>
